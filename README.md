@@ -13,7 +13,7 @@ Qiskit Fall Fest is a global series of quantum computing events organized by stu
 
 ## 👥 Organizing Team
 
-| Name | Role | GitHub |
+| Name | GitHub |
 |------|------|--------|
 | Kassim, Shawal (Team Lead) | @ |
 | van Heerden, Sharnley | @ |
