@@ -7,7 +7,7 @@ Qiskit Fall Fest is a global series of quantum computing events organized by stu
 ## 📅 Event Details
 
 - **Event Name:** Qiskit Fall Fest — Wits University
-- **Date(s):** TBD
+- **Date(s):** 30-31 October 2026
 - **Location:** Wits University
 - **Format:** In-person 
 
@@ -22,14 +22,13 @@ Qiskit Fall Fest is a global series of quantum computing events organized by stu
 | Morison, Sarah | @ |
 | Moyo, Nomagugu | @ |
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 ├── slides/         # Presentation decks and talk materials
 ├── workshops/       # Hands-on workshop notebooks and guides
 ├── notebooks/        # Qiskit / quantum computing code notebooks
 ├── registration/     # Sign-up forms, attendee lists, logistics docs
-├── marketing/        # Posters, social media assets, flyers
 └── README.md        
 ```
 
