@@ -1,0 +1,23 @@
+name: QCIG-entanglement-tut
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # Core Python & Jupyter Ecosystem
+  - python=3.10
+  - pip
+  - jupyter
+  - ipykernel
+  - notebook
+  
+  # Data Science & Visualization
+  - numpy
+  - matplotlib        # Requested: For plotting expectation values and circuits
+  - pylatexenc        # Recommended: For high-quality circuit drawings
+
+  # Quantum Libraries
+  - pip:
+      - qiskit>=2.1.0              # Core Qiskit SDK (matches your 2.3.0 notebook check)
+      - qiskit-ibm-runtime>=0.40.1 # Required for primitives (Sampler/Estimator)
+      - qiskit-aer                 # Requested: High-performance simulators with noise
+      - qiskit-algorithms          # Requested: Quantum & Classical Optimizers
