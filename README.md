@@ -1,6 +1,6 @@
 # Qiskit Fall Fest — Wits University 2026
 
-Welcome to the official repository for the **Qiskit Fall Fest** hosted by the **University of the Witwatersrand (Wits)**! 🎉⚛️
+Welcome to the official repository for the **Qiskit Fall Fest** hosted by the **University of the Witwatersrand (Wits)**!
 
 Qiskit Fall Fest is a global series of quantum computing events organized by student communities, supported by IBM Quantum. This repo is where our team plans, builds, and shares everything related to hosting our event.
 
@@ -33,31 +33,14 @@ Qiskit Fall Fest is a global series of quantum computing events organized by stu
 └── README.md        
 ```
 
-## 🚀 Getting Started
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/[org-or-username]/[repo-name].git
-   ```
-2. Pull the latest changes before you start working:
-   ```bash
-   git pull
-   ```
-3. Add your files to the relevant folder, then commit and push:
-   ```bash
-   git add .
-   git commit -m "Add [describe what you added]"
-   git push
-   ```
-
-## 🤝 Contributing
+## Contributing
 
 This repo is for our organizing team. If you're a team member:
 - Create a new branch for major changes (optional but recommended)
 - Keep files organized in the correct folder
 - Use clear commit messages so everyone knows what changed
 
-## 📬 Contact
+## Contact
 
 Questions about the event? Reach out to Shawal.
 
