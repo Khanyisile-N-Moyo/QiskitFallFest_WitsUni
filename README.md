@@ -1,6 +1,6 @@
 # Qiskit Fall Fest 2026 - Wits QCIG
  
-![QCIG Fall Fest 2026](https://github.com/QiskitFallFest_WitsUni/blob/main/QCIG-Logo.png)
+![QCIG Fall Fest 2026](https://github.com/Khanyisile-N-Moyo/QiskitFallFest_WitsUni/blob/main/QCIG-Logo.png)
  
 ## Welcome
 This is the [Qiskit Fall Fest](https://qiskit.org/events/fall-fest/) event for the University of the Witwatersrand (Wits). We're so excited to have you all here. This event is being hosted by the **Quantum Computing Interest Group (QCIG)** at Wits.
