@@ -11,7 +11,7 @@ The Fall Fest here at Wits is going to be a series of workshops and challenges. 
  
 --------------------------------
 ## Official Registration
-- Before you register, read the full rules https://qiskit-fall-fest-five.vercel.app/(#).
+- Before you register, read the full rules https://qiskit-fall-fest-five.vercel.app/.
 - To officially sign up, register using [this link](#).
 --------------------------------
 ## Schedule
