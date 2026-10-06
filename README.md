@@ -4,9 +4,8 @@
  
 ## Welcome
 This is the [Qiskit Fall Fest](https://qiskit.org/events/fall-fest/) event for the University of the Witwatersrand (Wits). We're so excited to have you all here. This event is being hosted by the **Quantum Computing Interest Group (QCIG)** at Wits.
- 
-The [Qiskit Fall Fest](https://medium.com/qiskit/introducing-the-qiskit-fall-fest-feb8456b557) is a collection of quantum computing events on college campuses around the world. Every Fall Fest event is organized and run by the students on each campus, with support from the entire IBM Quantum team. Student leaders work alongside IBM to design and plan their event, which are then run in the following months. The events vary from technical hackathons to beginner-friendly challenges, all with the goal of helping to grow the local community's skill set.
- 
+
+Qiskit Fall Fest brings quantum computing events to university campuses worldwide. Each event is planned and run by students at that campus, backed by the IBM Quantum team. Student organizers collaborate with IBM in the lead-up to design their event, which then takes place over the following months. Formats range from technical hackathons to challenges aimed at newcomers, all built around growing quantum computing skills within the local community.
 The Fall Fest here at Wits is going to be a series of workshops and challenges. Details about the event and rules can be found below. Good luck!
  
 --------------------------------
