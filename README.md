@@ -53,7 +53,7 @@ Celebrate learning Quantum Computing and Qiskit this Fall Fest, across two days 
 3. *TBD*
 --------------------------------
  
-### What next?
+### Where to next?
 To continue on your journey of exploring quantum computing see
 - QCIG Resources: https://courses.ms.wits.ac.za/moodle/course/view.php?id=183
  
