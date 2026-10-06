@@ -12,12 +12,12 @@ The Fall Fest here at Wits is going to be a series of workshops and challenges. 
 --------------------------------
 ## Official Registration
 - Before you register, read the full rules https://qiskit-fall-fest-five.vercel.app/.
-- To officially sign up, register using [this link](#).
+- To officially sign up, register using  https://docs.google.com/forms/d/e/1FAIpQLSeSYSkiOpoS9UvjliWZV_S3gwaJkXe58MdgKMEfTmczu-oiIQ/viewform
 --------------------------------
 ## Schedule
 Celebrate learning Quantum Computing and Qiskit this Fall Fest, across two days — **Day 1: Foundations** and **Day 2: Applications**.
  
-<b>Day 1 — Foundations</b> *(date TBD)*
+<b>Day 1 — Foundations</b> *30 October 2026*
  
 | Time | Session | Location |
 |------|---------|----------|
@@ -33,7 +33,7 @@ Celebrate learning Quantum Computing and Qiskit this Fall Fest, across two days 
 | 13:00 – 14:00 | **Workshop: Build a Variational Quantum Algorithm** — Write out and run a simple VQA on real quantum hardware | Laboratory |
 | 14:00 – 14:30 | **Concluding Remarks and Q&A** — Day 1 reflections, followed by an open Q&A | Laboratory |
  
-<b>Day 2 — Applications</b> *(date TBD)*
+<b>Day 2 — Applications</b> *31 October 2026*
  
 | Time | Session | Location |
 |------|---------|----------|
