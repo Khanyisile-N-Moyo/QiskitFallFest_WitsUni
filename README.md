@@ -1,52 +1,125 @@
-# Qiskit Fall Fest — Wits University 2026
-
-Welcome to the official repository for the **Qiskit Fall Fest** hosted by the **University of the Witwatersrand (Wits)**!
-
-Qiskit Fall Fest is a global series of quantum computing events organized by student communities, supported by IBM Quantum. This repo is where our team plans, builds, and shares everything related to hosting our event.
-
-## 📅 Event Details
-
-- **Event Name:** Qiskit Fall Fest — Wits University
-- **Date(s):** 30-31 October 2026
-- **Location:** Wits University
-- **Format:** In-person 
-
-## 👥 Organizing Team
-
-| Name | GitHub |
-|------|--------|
-| Kassim, Shawal (Team Lead) | @ |
-| van Heerden, Sharnley | @ |
-| Luksmidas, Maia  | @ |
-| Majeed, Huzaifa | @ |
-| Morison, Sarah | @ |
-| Moyo, Nomagugu | @ |
-
-## Repository Structure
-
+# Qiskit Fall Fest 2026 - Wits QCIG
+ 
+![QCIG Fall Fest 2026](https://github.com/[org-or-username]/[repo-name]/blob/main/QCIG-Logo.png)
+ 
+## Welcome
+This is the [Qiskit Fall Fest](https://qiskit.org/events/fall-fest/) event for the University of the Witwatersrand (Wits). We're so excited to have you all here. This event is being hosted by the **Quantum Computing Interest Group (QCIG)** at Wits.
+ 
+The [Qiskit Fall Fest](https://medium.com/qiskit/introducing-the-qiskit-fall-fest-feb8456b557) is a collection of quantum computing events on college campuses around the world. Every Fall Fest event is organized and run by the students on each campus, with support from the entire IBM Quantum team. Student leaders work alongside IBM to design and plan their event, which are then run in the following months. The events vary from technical hackathons to beginner-friendly challenges, all with the goal of helping to grow the local community's skill set.
+ 
+The Fall Fest here at Wits is going to be a series of workshops and challenges. Details about the event and rules can be found below. Good luck!
+ 
+--------------------------------
+## Official Registration
+- Before you register, read the full rules [here](#).
+- To officially sign up, register using [this link](#).
+--------------------------------
+## Schedule
+Celebrate learning Quantum Computing and Qiskit this Fall Fest, across two days — **Day 1: Foundations** and **Day 2: Applications**.
+ 
+<b>Day 1 — Foundations</b> *(date TBD)*
+ 
+| Time | Session | Location |
+|------|---------|----------|
+| 08:30 – 08:50 | **Arrival & Sign-In** — Settle in, sign the register, and grab a coffee before we begin | Foyer |
+| 08:50 – 09:15 | **Welcome & Icebreaker Quiz** — Introductions, agenda at a glance and an icebreaker quiz to set the tone | Laboratory |
+| 09:15 – 09:45 | **Crash Course: What is Quantum Computing?** — A beginner-friendly overview covering history, key concepts, and real-world applications | Laboratory |
+| 09:45 – 10:15 | **Comprehensive Overview of Quantum Computing Fundamentals** — Deep dive into the building blocks of quantum computing: qubits, superposition and entanglement | Laboratory |
+| 10:15 – 10:25 | **Break** — Refreshments and networking | Foyer |
+| 10:25 – 10:40 | **Quiz: Quantum Fundamentals** — Put your quantum knowledge to the test | Laboratory |
+| 10:40 – 11:15 | **IBM Quantum Circuit Composer** — What is the IBM Quantum Circuit Composer and how to use it (a live demo) | Laboratory |
+| 11:15 – 12:15 | **Keynote: Quantum Computing in Practice** — Where quantum computing stands, and where it's headed | Laboratory |
+| 12:15 – 13:00 | **Lunch** — Refreshments and networking | Foyer |
+| 13:00 – 14:00 | **Workshop: Build a Variational Quantum Algorithm** — Write out and run a simple VQA on real quantum hardware | Laboratory |
+| 14:00 – 14:30 | **Concluding Remarks and Q&A** — Day 1 reflections, followed by an open Q&A | Laboratory |
+ 
+<b>Day 2 — Applications</b> *(date TBD)*
+ 
+| Time | Session | Location |
+|------|---------|----------|
+| 08:30 – 08:50 | **Arrive and Find Your Footing** — Welcome back. Grab a coffee and get ready for Day 2 | Foyer |
+| 08:50 – 09:10 | **Recap Quiz** — Refresher quiz: everything we've covered so far | Laboratory |
+| 09:10 – 10:15 | **Random Number Generation Circuits** — Where true randomness is born: quantum circuits | Laboratory |
+| 10:15 – 10:30 | **Break** — Refreshments and networking | Foyer |
+| 10:30 – 11:30 | **Workshop: Quantum Machine Learning** — Lab and tutorial on machine learning applications | Laboratory |
+| 11:30 – 11:45 | **Consolidation Quiz: Bringing It All Together** — Test how far you've come over the duration of the workshop | Laboratory |
+| 11:45 – 12:45 | **Keynote: Future and Careers in Quantum Computing** — Hear from industry professionals on where quantum computing is headed and how to build a career in this emerging field | Laboratory |
+| 12:45 – 13:00 | **Break** — Refreshments and networking | Foyer |
+| 13:00 – 14:00 | **Prize Giving, Certificates & Closing** — Awards for our top quiz scorers and circuit builders, followed by certificate presentation & closing remarks | Laboratory |
+ 
+--------------------------------
+### Challenge
+Check out the `notebooks/` folder of this repository for workshop materials and challenge notebooks, organized by session:
+- `notebooks/odepde-heat-equation/` — ODE/PDE → quantum concepts
+- `notebooks/qiskit-ml/` — Qiskit machine learning
+- `notebooks/entanglement-tutorial/` — Entanglement tutorial
+- `notebooks/max-clique/` — Max-clique optimization
+Each folder has its own `environment.yml` — see [Repository Structure](#-repository-structure) below for how to set it up.
+ 
+<b>Winners</b>
+1. *TBD*
+2. *TBD*
+3. *TBD*
+--------------------------------
+ 
+### What next?
+- Complete Event Summary: *link to be added*
+- Complete Playlist: *link to be added*
+- QCIG Resources: *link to be added*
+- Find other great resources in the [`notebooks/`](./notebooks) folder, to continue on your journey of exploring quantum computing!
+--------------------------------
+ 
+## 📂 Repository Structure
+ 
 ```
-├── slides/         # Presentation decks and talk materials
-├── workshops/       # Hands-on workshop notebooks and guides
-├── notebooks/        # Qiskit / quantum computing code notebooks
-├── registration/     # Sign-up forms, attendee lists, logistics docs
-└── README.md        
+├── slides/                        # Presentation decks and talk materials
+├── workshops/                     # Hands-on workshop guides
+├── notebooks/                     # Qiskit / quantum computing notebooks, one subfolder per session
+│   ├── odepde-heat-equation/      #   ODE/PDE → quantum concepts session
+│   │   ├── *.ipynb
+│   │   └── environment.yml        #   conda env for THIS notebook only
+│   ├── qiskit-ml/
+│   │   └── environment.yml
+│   ├── entanglement-tutorial/
+│   │   └── environment.yml
+│   └── max-clique/
+│       └── environment.yml
+├── registration/                  # Sign-up forms, attendee lists, logistics docs
+├── marketing/                     # Posters, social media assets, flyers
+└── README.md                      # You are here
 ```
-
-## Contributing
-
-This repo is for our organizing team. If you're a team member:
-- Create a new branch for major changes (optional but recommended)
-- Keep files organized in the correct folder
-- Use clear commit messages so everyone knows what changed
-
-## Contact
-
-Questions about the event? Reach out to Shawal.
-
-## 🔗 Useful Links
-
-- [Qiskit Fall Fest official page](https://qiskit.org/events/fall-fest)
-- [Qiskit documentation](https://docs.quantum.ibm.com/)
-- [IBM Quantum Learning](https://learning.quantum.ibm.com/)
-
----
+ 
+Each session/workshop gets its **own subfolder** under `notebooks/`, with its notebook and its own `environment.yml` living together. This avoids filename clashes (several sessions end up needing a file literally called `environment.yml`) and means contributors only install what that specific session needs.
+ 
+To use a session's environment:
+```bash
+conda env create -f notebooks/<session-name>/environment.yml
+conda activate <env-name-from-the-yml>
+```
+ 
+### Getting the repo locally
+ 
+```bash
+git clone https://github.com/[org-or-username]/[repo-name].git
+git pull        # before you start working each time
+git add .
+git commit -m "Add [describe what you added]"
+git push
+```
+ 
+### External Dependencies
+Some sessions build on external open-source quantum libraries rather than vendoring their code into this repo. Install them via pip/conda as listed in that session's `environment.yml`, for example:
+ 
+- **[vqls-prototype](https://github.com/QuantumApplicationLab/vqls-prototype)** — Variational Quantum Linear Solver prototype for Qiskit (Apache 2.0). Install with:
+```bash
+  pip install vqls-prototype
+```
+ 
+--------------------------------
+ 
+## 📬 Contact
+Questions about the event? Reach out to Shawal or the QCIG organizing team at [contact email].
+ 
+<br><br>
+[Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
+ 
