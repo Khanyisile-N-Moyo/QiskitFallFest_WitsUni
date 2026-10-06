@@ -48,77 +48,36 @@ Celebrate learning Quantum Computing and Qiskit this Fall Fest, across two days 
 | 13:00 – 14:00 | **Prize Giving, Certificates & Closing** — Awards for our top quiz scorers and circuit builders, followed by certificate presentation & closing remarks | Laboratory |
  
 --------------------------------
-### Challenge
-Check out the `notebooks/` folder of this repository for workshop materials and challenge notebooks, organized by session:
-- `notebooks/odepde-heat-equation/` — ODE/PDE → quantum concepts
-- `notebooks/qiskit-ml/` — Qiskit machine learning
-- `notebooks/entanglement-tutorial/` — Entanglement tutorial
-- `notebooks/max-clique/` — Max-clique optimization
-Each folder has its own `environment.yml` — see [Repository Structure](#-repository-structure) below for how to set it up.
- 
-<b>Winners</b>
+### Challenge Winners 
 1. *TBD*
 2. *TBD*
 3. *TBD*
 --------------------------------
  
 ### What next?
-- Complete Event Summary: *link to be added*
-- Complete Playlist: *link to be added*
-- QCIG Resources: *link to be added*
-- Find other great resources in the [`notebooks/`](./notebooks) folder, to continue on your journey of exploring quantum computing!
+To continue on your journey of exploring quantum computing see
+- QCIG Resources: https://courses.ms.wits.ac.za/moodle/course/view.php?id=183
+ 
 --------------------------------
  
-## 📂 Repository Structure
+## Repository Structure
  
 ```
 ├── slides/                        # Presentation decks and talk materials
 ├── workshops/                     # Hands-on workshop guides
-├── notebooks/                     # Qiskit / quantum computing notebooks, one subfolder per session
-│   ├── odepde-heat-equation/      #   ODE/PDE → quantum concepts session
-│   │   ├── *.ipynb
-│   │   └── environment.yml        #   conda env for THIS notebook only
-│   ├── qiskit-ml/
-│   │   └── environment.yml
-│   ├── entanglement-tutorial/
-│   │   └── environment.yml
-│   └── max-clique/
-│       └── environment.yml
-├── registration/                  # Sign-up forms, attendee lists, logistics docs
 ├── marketing/                     # Posters, social media assets, flyers
 └── README.md                      # You are here
 ```
- 
-Each session/workshop gets its **own subfolder** under `notebooks/`, with its notebook and its own `environment.yml` living together. This avoids filename clashes (several sessions end up needing a file literally called `environment.yml`) and means contributors only install what that specific session needs.
  
 To use a session's environment:
 ```bash
 conda env create -f notebooks/<session-name>/environment.yml
 conda activate <env-name-from-the-yml>
-```
- 
-### Getting the repo locally
- 
-```bash
-git clone https://github.com/[org-or-username]/[repo-name].git
-git pull        # before you start working each time
-git add .
-git commit -m "Add [describe what you added]"
-git push
-```
- 
-### External Dependencies
-Some sessions build on external open-source quantum libraries rather than vendoring their code into this repo. Install them via pip/conda as listed in that session's `environment.yml`, for example:
- 
-- **[vqls-prototype](https://github.com/QuantumApplicationLab/vqls-prototype)** — Variational Quantum Linear Solver prototype for Qiskit (Apache 2.0). Install with:
-```bash
-  pip install vqls-prototype
-```
- 
+``` 
 --------------------------------
  
-## 📬 Contact
-Questions about the event? Reach out to Shawal or the QCIG organizing team at [contact email].
+## Contact
+Questions about the event? Reach out to Shawal or the QCIG organizing team.
  
 <br><br>
 [Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
