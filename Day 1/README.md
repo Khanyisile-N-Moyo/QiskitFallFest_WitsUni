@@ -2,3 +2,5 @@
 
 
 [Kahoot quizes](https://kahoot.it/)
+
+[IBM Quantum Circuit Composer](https://quantum.cloud.ibm.com/composer)
